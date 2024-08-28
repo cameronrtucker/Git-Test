@@ -1,0 +1,1 @@
+This is the repo I'll be using to practice Git functions for my CSCI325 class.
